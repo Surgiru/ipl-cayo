@@ -1,35 +1,35 @@
 ########################################################################
                                                                        
-FR :                                                                   
+**FR** :                                                                   
                                                                        
-Comment avoir cayo sur la version los santos tuners ? (2372)           
+*Comment avoir cayo sur la version los santos tuners ? (2372)*           
                                                                        
-Pour le faire c'est très simple vous devez installer son IPL            
-le voici                                                               
+*Pour le faire c'est très simple vous devez installer son IPL*            
+*le voici*                                                               
                                                                        
-vous devez avoir ces deux lignes dans votre CFG:                       
+**vous devez avoir ces deux lignes dans votre CFG**:                       
 
-resume ipl-cayo
+```resume ipl-cayo```
 
-et                                                                     
+*et*                                                                     
 
-set sv_enforceGameBuild 2372 
+``` set sv_enforceGameBuild 2372 ```
 
-########################################################################
+**########################################################################**
 
-EN :
+**EN** :
 
-How to have cayo on version los santos tuners ? (2372)
+*How to have cayo on version los santos tuners ? (2372)*
 
-you can do it its very simple you juste need the IPL
-and now you have it 
+*you can do it its very simple you juste need the IPL*
+*and now you have it* 
 
-you need to put on your server.cfg
+**you need to put on your server.cfg**
 
-resume ipl-cayo
+```resume ipl-cayo```
 
-ans
+*and*
 
-set sv_enforceGameBuild 2372 
+```set sv_enforceGameBuild 2372 ```
 
-########################################################################
+**########################################################################**
